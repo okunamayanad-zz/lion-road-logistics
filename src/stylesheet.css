@@ -1,0 +1,8 @@
+.navbar-div {
+    position: absolute;
+    top: -56px;
+}
+
+.navbar-div * {
+    position: absolute;
+}
